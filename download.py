@@ -16,6 +16,7 @@ for pokemon in data['results']:
     pokemon_name = pokemon["name"]
     pokemon_directory = dataset_path + "/" + pokemon["name"]
     os.makedirs(pokemon_directory, exist_ok=True)
+    os.makedirs(pokemon_directory + "_shiny", exist_ok=True)
 
     pokemon_response = requests.get(pokemon["url"])
     pokemon_data = pokemon_response.json()
@@ -36,6 +37,10 @@ for pokemon in data['results']:
             if sprite is not None:
                 image_response = requests.get(sprite)
                 image_name = sprite.split("/")[-1].strip('.png')
-                with open(f"{pokemon_directory}/{image_name}_{version_shorthand}_{keys[i]}.png", "wb") as f:
-                    f.write(image_response.content)
+                if i > 1: # Shiny sprites
+                    with open(f"{pokemon_directory}_shiny/{image_name}_{version_shorthand}_{keys[i]}.png", "wb") as f:
+                        f.write(image_response.content)
+                else:
+                    with open(f"{pokemon_directory}/{image_name}_{version_shorthand}_{keys[i]}.png", "wb") as f:
+                        f.write(image_response.content)
 
