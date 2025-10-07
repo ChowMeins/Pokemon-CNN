@@ -1,0 +1,3 @@
+A Neural Network created with PyTorch to identify the Pokemon and variant (non-shiny or shiny)
+
+Currently a work in progress...
