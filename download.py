@@ -1,8 +1,7 @@
 import requests
-from bs4 import BeautifulSoup
 import os
 
-dataset_path = "./PokemonGen4/dataset/train"
+dataset_path = "./PokemonGen4/dataset/"
 request_url = "https://pokeapi.co/api/v2/pokemon/?offset=0&limit=493"
 response = requests.get(request_url)
 data = response.json()
@@ -11,7 +10,8 @@ version_shorthands = {
     "platinum": "pt",
     "heartgold-soulsilver": "hgss"
 }
-
+print(data)
+'''
 for pokemon in data['results']:
     pokemon_name = pokemon["name"]
     pokemon_directory = dataset_path + "/" + pokemon["name"]
@@ -43,4 +43,4 @@ for pokemon in data['results']:
                 else:
                     with open(f"{pokemon_directory}/{image_name}_{version_shorthand}_{keys[i]}.png", "wb") as f:
                         f.write(image_response.content)
-
+'''
