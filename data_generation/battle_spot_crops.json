@@ -1,0 +1,362 @@
+[
+    {
+        "image_name": "grass_day",
+        "crop": {
+            "x1": 768,
+            "y1": 16,
+            "x2": 1024.0,
+            "y2": 96
+        }
+    },
+    {
+        "image_name": "grass_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 16,
+            "x2": 1280.0,
+            "y2": 96
+        }
+    },
+    {
+        "image_name": "grass_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 16,
+            "x2": 1536.0,
+            "y2": 96
+        }
+    },
+    {
+        "image_name": "water_day",
+        "crop": {
+            "x1": 768,
+            "y1": 112,
+            "x2": 1024.0,
+            "y2": 192
+        }
+    },
+    {
+        "image_name": "water_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 112,
+            "x2": 1280.0,
+            "y2": 192
+        }
+    },
+    {
+        "image_name": "water_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 112,
+            "x2": 1536.0,
+            "y2": 192
+        }
+    },
+    {
+        "image_name": "path_day",
+        "crop": {
+            "x1": 768,
+            "y1": 208,
+            "x2": 1024.0,
+            "y2": 288
+        }
+    },
+    {
+        "image_name": "path_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 208,
+            "x2": 1280.0,
+            "y2": 288
+        }
+    },
+    {
+        "image_name": "path_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 208,
+            "x2": 1536.0,
+            "y2": 288
+        }
+    },
+    {
+        "image_name": "ice_day",
+        "crop": {
+            "x1": 768,
+            "y1": 304,
+            "x2": 1024.0,
+            "y2": 384
+        }
+    },
+    {
+        "image_name": "ice_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 304,
+            "x2": 1280.0,
+            "y2": 384
+        }
+    },
+    {
+        "image_name": "ice_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 304,
+            "x2": 1536.0,
+            "y2": 384
+        }
+    },
+    {
+        "image_name": "rocky_day",
+        "crop": {
+            "x1": 768,
+            "y1": 400,
+            "x2": 1024.0,
+            "y2": 480
+        }
+    },
+    {
+        "image_name": "rocky_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 400,
+            "x2": 1280.0,
+            "y2": 480
+        }
+    },
+    {
+        "image_name": "rocky_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 400,
+            "x2": 1536.0,
+            "y2": 480
+        }
+    },
+    {
+        "image_name": "snow_day",
+        "crop": {
+            "x1": 768,
+            "y1": 496,
+            "x2": 1024.0,
+            "y2": 576
+        }
+    },
+    {
+        "image_name": "snow_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 496,
+            "x2": 1280.0,
+            "y2": 576
+        }
+    },
+    {
+        "image_name": "snow_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 496,
+            "x2": 1536.0,
+            "y2": 576
+        }
+    },
+    {
+        "image_name": "sand_day",
+        "crop": {
+            "x1": 768,
+            "y1": 592,
+            "x2": 1024.0,
+            "y2": 672
+        }
+    },
+    {
+        "image_name": "sand_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 592,
+            "x2": 1280.0,
+            "y2": 672
+        }
+    },
+    {
+        "image_name": "sand_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 592,
+            "x2": 1536.0,
+            "y2": 672
+        }
+    },
+    {
+        "image_name": "mud_day",
+        "crop": {
+            "x1": 768,
+            "y1": 688,
+            "x2": 1024.0,
+            "y2": 768
+        }
+    },
+    {
+        "image_name": "mud_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 688,
+            "x2": 1280.0,
+            "y2": 768
+        }
+    },
+    {
+        "image_name": "mud_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 688,
+            "x2": 1536.0,
+            "y2": 768
+        }
+    },
+    {
+        "image_name": "wet_path_day",
+        "crop": {
+            "x1": 768,
+            "y1": 784,
+            "x2": 1024.0,
+            "y2": 864
+        }
+    },
+    {
+        "image_name": "wet_path_afternoon",
+        "crop": {
+            "x1": 1024,
+            "y1": 784,
+            "x2": 1280.0,
+            "y2": 864
+        }
+    },
+    {
+        "image_name": "wet_path_night",
+        "crop": {
+            "x1": 1280,
+            "y1": 784,
+            "x2": 1536.0,
+            "y2": 864
+        }
+    },
+    {
+        "image_name": "cave",
+        "crop": {
+            "x1": 768,
+            "y1": 880,
+            "x2": 1024.0,
+            "y2": 960
+        }
+    },
+    {
+        "image_name": "indoor",
+        "crop": {
+            "x1": 1024,
+            "y1": 880,
+            "x2": 1280.0,
+            "y2": 960
+        }
+    },
+    {
+        "image_name": "aaron",
+        "crop": {
+            "x1": 1280,
+            "y1": 880,
+            "x2": 1536.0,
+            "y2": 960
+        }
+    },
+    {
+        "image_name": "bertha",
+        "crop": {
+            "x1": 768,
+            "y1": 976,
+            "x2": 1024.0,
+            "y2": 1056
+        }
+    },
+    {
+        "image_name": "flint",
+        "crop": {
+            "x1": 1024,
+            "y1": 976,
+            "x2": 1280.0,
+            "y2": 1056
+        }
+    },
+    {
+        "image_name": "lucian",
+        "crop": {
+            "x1": 1280,
+            "y1": 976,
+            "x2": 1536.0,
+            "y2": 1056
+        }
+    },
+    {
+        "image_name": "cynthia",
+        "crop": {
+            "x1": 768,
+            "y1": 1072,
+            "x2": 1024.0,
+            "y2": 1152
+        }
+    },
+    {
+        "image_name": "distortion_world",
+        "crop": {
+            "x1": 1024,
+            "y1": 1072,
+            "x2": 1280.0,
+            "y2": 1152
+        }
+    },
+    {
+        "image_name": "battle_tower",
+        "crop": {
+            "x1": 1280,
+            "y1": 1072,
+            "x2": 1536.0,
+            "y2": 1152
+        }
+    },
+    {
+        "image_name": "battle_factory",
+        "crop": {
+            "x1": 768,
+            "y1": 1168,
+            "x2": 1024.0,
+            "y2": 1248
+        }
+    },
+    {
+        "image_name": "battle_arcade",
+        "crop": {
+            "x1": 1024,
+            "y1": 1168,
+            "x2": 1280.0,
+            "y2": 1248
+        }
+    },
+    {
+        "image_name": "battle_castle",
+        "crop": {
+            "x1": 1280,
+            "y1": 1168,
+            "x2": 1536.0,
+            "y2": 1248
+        }
+    },
+    {
+        "image_name": "battle_hall",
+        "crop": {
+            "x1": 768,
+            "y1": 1264,
+            "x2": 1024.0,
+            "y2": 1344
+        }
+    }
+]

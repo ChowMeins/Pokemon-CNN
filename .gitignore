@@ -1,4 +1,8 @@
 # Ignore files here
-
+__pycache__
+data_generation/battle_spots
+data_generation/fields
+generate_encounter.py
 PokemonGen4
 venv
+test.py
