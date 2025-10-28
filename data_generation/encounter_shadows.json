@@ -1,15 +1,16 @@
 {
     "1": {
         "center": [
-            192,
+            193,
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "2": {
         "center": [
@@ -17,12 +18,12 @@
             87
         ],
         "widths": [
-            34,
-            34,
-            32,
-            26,
-            20
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "3": {
         "center": [
@@ -30,36 +31,39 @@
             87
         ],
         "widths": [
-            48,
-            46,
-            42,
-            34,
-            20
-        ]
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
     },
     "4": {
         "center": [
-            192,
+            195,
             86
         ],
         "widths": [
-            30,
-            28,
-            24,
-            16
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "5": {
         "center": [
-            192,
-            86
+            191,
+            87
         ],
         "widths": [
-            38,
-            36,
-            30,
-            20
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "6": {
         "center": [
@@ -67,61 +71,65 @@
             87
         ],
         "widths": [
-            38,
-            36,
-            30,
-            22,
-            14
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "7": {
         "center": [
-            188,
+            189,
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "8": {
         "center": [
-            188,
+            189,
             87
         ],
         "widths": [
-            34,
-            32,
-            26,
-            18
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "9": {
         "center": [
-            188,
+            190,
             87
         ],
         "widths": [
-            50,
-            48,
-            44,
-            38,
-            26
-        ]
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
     },
     "10": {
         "center": [
-            191,
+            192,
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "11": {
         "center": [
@@ -129,11 +137,12 @@
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "12": {
         "center": [
@@ -141,11 +150,12 @@
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "13": {
         "center": [
@@ -153,11 +163,12 @@
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "14": {
         "center": [
@@ -165,23 +176,25 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "15": {
         "center": [
-            198,
+            199,
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "16": {
         "center": [
@@ -189,11 +202,12 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "17": {
         "center": [
@@ -201,60 +215,64 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "18": {
         "center": [
             192,
-            86
+            87
         ],
         "widths": [
-            36,
-            34,
-            28,
-            16
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "19": {
         "center": [
             192,
-            85
+            86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "20": {
         "center": [
             197,
-            86
+            87
         ],
         "widths": [
-            36,
-            34,
-            28,
-            20,
-            16
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "21": {
         "center": [
-            192,
+            193,
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "22": {
         "center": [
@@ -262,11 +280,12 @@
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "23": {
         "center": [
@@ -274,11 +293,12 @@
             87
         ],
         "widths": [
-            36,
-            34,
-            28,
-            16
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "24": {
         "center": [
@@ -286,61 +306,65 @@
             87
         ],
         "widths": [
-            50,
-            48,
-            44,
-            36,
-            22
-        ]
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
     },
     "25": {
         "center": [
-            191,
+            192,
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "26": {
         "center": [
             196,
-            86
-        ],
-        "widths": [
-            36,
-            34,
-            30,
-            24,
-            18
-        ]
-    },
-    "27": {
-        "center": [
-            196,
-            86
-        ],
-        "widths": [
-            26,
-            24,
-            18,
-            12
-        ]
-    },
-    "28": {
-        "center": [
-            192,
             87
         ],
         "widths": [
-            36,
-            34,
-            30,
-            18
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "27": {
+        "center": [
+            197,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "28": {
+        "center": [
+            193,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "29": {
         "center": [
@@ -348,36 +372,38 @@
             86
         ],
         "widths": [
-            24,
-            22,
-            18,
-            10
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "30": {
         "center": [
-            192,
-            86
+            195,
+            87
         ],
         "widths": [
-            30,
-            28,
-            22,
-            14
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "31": {
         "center": [
             192,
-            86
+            87
         ],
         "widths": [
-            38,
-            36,
-            32,
+            35,
+            33,
             27,
             17
-        ]
+        ],
+        "doubled_center": true
     },
     "32": {
         "center": [
@@ -385,35 +411,39 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "33": {
         "center": [
-            184,
+            186,
             87
         ],
         "widths": [
-            36,
-            34,
-            30,
-            20
-        ]
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "34": {
         "center": [
-            198,
-            88
+            196,
+            87
         ],
         "widths": [
-            46,
-            44,
-            38,
-            28
-        ]
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
     },
     "35": {
         "center": [
@@ -421,11 +451,12 @@
             86
         ],
         "widths": [
-            28,
-            26,
-            18,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "36": {
         "center": [
@@ -433,35 +464,38 @@
             86
         ],
         "widths": [
-            28,
-            26,
+            25,
+            23,
             19,
-            12
-        ]
+            11
+        ],
+        "doubled_center": false
     },
     "37": {
         "center": [
-            197,
+            198,
             86
         ],
         "widths": [
-            28,
-            26,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "38": {
         "center": [
-            197,
+            198,
             86
         ],
         "widths": [
-            28,
-            26,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "39": {
         "center": [
@@ -469,11 +503,12 @@
             86
         ],
         "widths": [
-            28,
-            26,
-            20,
-            12
-        ]
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
     },
     "40": {
         "center": [
@@ -481,10 +516,10 @@
             87
         ],
         "widths": [
-            34,
-            32,
-            26,
-            18
+            35,
+            33,
+            27,
+            17
         ],
         "doubled_center": true
     },
@@ -494,10 +529,10 @@
             86
         ],
         "widths": [
-            28,
-            26,
-            22,
-            14
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -522,8 +557,8 @@
         "widths": [
             25,
             23,
-            18,
-            12
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -536,7 +571,7 @@
             25,
             23,
             19,
-            12
+            11
         ],
         "doubled_center": false
     },
@@ -546,9 +581,9 @@
             87
         ],
         "widths": [
-            36,
-            34,
-            28,
+            35,
+            33,
+            27,
             17
         ],
         "doubled_center": true
@@ -559,24 +594,24 @@
             87
         ],
         "widths": [
-            34,
-            32,
-            26,
-            18
+            35,
+            33,
+            27,
+            17
         ],
         "doubled_center": true
     },
     "47": {
         "center": [
-            188,
+            190,
             87
         ],
         "widths": [
-            46,
-            44,
-            38,
-            28,
-            18
+            49,
+            47,
+            43,
+            35,
+            21
         ],
         "doubled_center": true
     },
@@ -586,9 +621,9 @@
             87
         ],
         "widths": [
-            34,
-            32,
-            26,
+            35,
+            33,
+            27,
             17
         ],
         "doubled_center": true
@@ -608,23 +643,23 @@
     },
     "50": {
         "center": [
-            192,
-            86
+            186,
+            87
         ],
         "widths": [
             0
         ],
-        "doubled_center": false
+        "doubled_center": true
     },
     "51": {
         "center": [
-            192,
-            86
+            186,
+            87
         ],
         "widths": [
             0
         ],
-        "doubled_center": false
+        "doubled_center": true
     },
     "52": {
         "center": [
@@ -632,10 +667,10 @@
             86
         ],
         "widths": [
-            28,
-            26,
-            20,
-            12
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -645,8 +680,8 @@
             87
         ],
         "widths": [
-            36,
-            34,
+            35,
+            33,
             27,
             17
         ],
@@ -671,10 +706,10 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -684,10 +719,10 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -697,10 +732,10 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -710,23 +745,24 @@
             87
         ],
         "widths": [
-            34,
-            32,
-            26,
-            16
+            35,
+            33,
+            27,
+            17
         ],
         "doubled_center": true
     },
     "59": {
         "center": [
-            196,
+            197,
             87
         ],
         "widths": [
-            50,
-            48,
-            44,
-            38
+            49,
+            47,
+            43,
+            35,
+            21
         ],
         "doubled_center": true
     },
@@ -736,10 +772,10 @@
             86
         ],
         "widths": [
-            26,
-            24,
-            20,
-            12
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -749,7 +785,7 @@
             87
         ],
         "widths": [
-            37,
+            35,
             33,
             27,
             17
@@ -762,7 +798,7 @@
             87
         ],
         "widths": [
-            37,
+            35,
             33,
             27,
             17
@@ -775,36 +811,36 @@
             87
         ],
         "widths": [
-            37,
+            35,
             33,
             27,
             17
         ],
-        "doubled_center": false
+        "doubled_center": true
     },
     "64": {
         "center": [
-            191,
+            192,
             87
         ],
         "widths": [
-            37,
             35,
-            29,
-            15
+            33,
+            27,
+            17
         ],
         "doubled_center": true
     },
     "65": {
         "center": [
-            184,
+            186,
             87
         ],
         "widths": [
-            36,
-            34,
-            30,
-            20
+            35,
+            33,
+            27,
+            17
         ],
         "doubled_center": true
     },
@@ -814,10 +850,10 @@
             86
         ],
         "widths": [
-            30,
-            28,
-            18,
-            12
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -836,7 +872,7 @@
     },
     "68": {
         "center": [
-            194,
+            195,
             87
         ],
         "widths": [
@@ -970,9 +1006,9 @@
             87
         ],
         "widths": [
+            35,
             33,
-            31,
-            25,
+            27,
             17
         ],
         "doubled_center": true
@@ -1008,7 +1044,7 @@
     "81": {
         "center": [
             192,
-            87
+            86
         ],
         "widths": [
             25,
@@ -1016,12 +1052,12 @@
             19,
             11
         ],
-        "doubled_center": true
+        "doubled_center": false
     },
     "82": {
         "center": [
             192,
-            87
+            86
         ],
         "widths": [
             25,
@@ -1029,7 +1065,7 @@
             19,
             11
         ],
-        "doubled_center": true
+        "doubled_center": false
     },
     "83": {
         "center": [
@@ -1113,15 +1149,15 @@
     },
     "89": {
         "center": [
-            197,
+            201,
             87
         ],
         "widths": [
-            57,
-            55,
-            51,
+            49,
+            47,
             43,
-            27
+            35,
+            21
         ],
         "doubled_center": true
     },
@@ -1248,9 +1284,9 @@
             87
         ],
         "widths": [
+            35,
             33,
-            31,
-            25,
+            27,
             17
         ],
         "doubled_center": true
@@ -1289,22 +1325,22 @@
         "widths": [
             49,
             47,
-            41,
-            27,
-            19
+            43,
+            35,
+            21
         ],
         "doubled_center": true
     },
     "103": {
         "center": [
-            190,
+            189,
             86
         ],
         "widths": [
-            27,
             25,
-            21,
-            13
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -1442,14 +1478,14 @@
     },
     "114": {
         "center": [
-            192,
+            191,
             87
         ],
         "widths": [
+            35,
             33,
-            31,
-            23,
-            19
+            27,
+            17
         ],
         "doubled_center": true
     },
@@ -1459,9 +1495,9 @@
             87
         ],
         "widths": [
-            51,
             49,
-            45,
+            47,
+            43,
             35,
             21
         ],
@@ -1573,7 +1609,7 @@
     },
     "124": {
         "center": [
-            195,
+            192,
             86
         ],
         "widths": [
@@ -1645,7 +1681,7 @@
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
@@ -1685,7 +1721,7 @@
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
@@ -1698,7 +1734,7 @@
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
@@ -1887,14 +1923,14 @@
     },
     "148": {
         "center": [
-            195,
+            192,
             87
         ],
         "widths": [
-            29,
+            35,
+            33,
             27,
-            21,
-            11
+            17
         ],
         "doubled_center": true
     },
@@ -2066,33 +2102,33 @@
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
     "162": {
         "center": [
-            188,
+            187,
             86
         ],
         "widths": [
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
     "163": {
         "center": [
-            192,
+            191,
             86
         ],
         "widths": [
-            27,
             25,
-            21,
-            13
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -2424,7 +2460,7 @@
     },
     "189": {
         "center": [
-            193,
+            194,
             86
         ],
         "widths": [
@@ -2638,21 +2674,21 @@
         "widths": [
             35,
             33,
-            25,
+            27,
             17
         ],
         "doubled_center": true
     },
     "206": {
         "center": [
-            194,
+            199,
             86
         ],
         "widths": [
-            35,
-            33,
-            29,
-            21
+            25,
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -2684,14 +2720,14 @@
     },
     "209": {
         "center": [
-            192,
+            193,
             86
         ],
         "widths": [
-            27,
             25,
-            21,
-            13
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -2701,9 +2737,9 @@
             86
         ],
         "widths": [
-            27,
             25,
-            21,
+            23,
+            19,
             11
         ],
         "doubled_center": false
@@ -2924,7 +2960,7 @@
         "widths": [
             35,
             33,
-            25,
+            27,
             17
         ],
         "doubled_center": true
@@ -3087,14 +3123,14 @@
     },
     "240": {
         "center": [
-            192,
+            193,
             86
         ],
         "widths": [
-            27,
             25,
-            21,
-            13
+            23,
+            19,
+            11
         ],
         "doubled_center": false
     },
@@ -3134,21 +3170,21 @@
             47,
             43,
             35,
-            19
+            21
         ],
         "doubled_center": true
     },
     "244": {
         "center": [
-            196,
+            197,
             87
         ],
         "widths": [
-            51,
             49,
-            45,
+            47,
+            43,
             35,
-            19
+            21
         ],
         "doubled_center": true
     },
@@ -3284,14 +3320,14 @@
     },
     "255": {
         "center": [
-            192,
+            191,
             86
         ],
         "widths": [
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
@@ -3304,7 +3340,7 @@
             25,
             23,
             19,
-            13
+            11
         ],
         "doubled_center": false
     },
@@ -3333,6 +3369,19 @@
             11
         ],
         "doubled_center": false
+    },
+    "259": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
     },
     "260": {
         "center": [
@@ -3484,22 +3533,22 @@
             87
         ],
         "widths": [
+            35,
             33,
-            31,
-            25,
+            27,
             17
         ],
         "doubled_center": true
     },
     "272": {
         "center": [
-            192,
+            193,
             87
         ],
         "widths": [
+            35,
             33,
-            31,
-            25,
+            27,
             17
         ],
         "doubled_center": true
@@ -3538,8 +3587,8 @@
         "widths": [
             49,
             47,
-            41,
-            33,
+            43,
+            35,
             21
         ],
         "doubled_center": true
@@ -3572,7 +3621,7 @@
     },
     "278": {
         "center": [
-            192,
+            191,
             86
         ],
         "widths": [
@@ -3630,7 +3679,7 @@
         "widths": [
             35,
             33,
-            25,
+            27,
             17
         ],
         "doubled_center": true
@@ -3731,7 +3780,7 @@
     "290": {
         "center": [
             194,
-            86
+            87
         ],
         "widths": [
             35,
@@ -3739,7 +3788,7 @@
             27,
             17
         ],
-        "doubled_center": false
+        "doubled_center": true
     },
     "291": {
         "center": [
@@ -3871,19 +3920,6 @@
             11
         ],
         "doubled_center": false
-    },
-    "259": {
-        "center": [
-            192,
-            87
-        ],
-        "widths": [
-            35,
-            33,
-            27,
-            17
-        ],
-        "doubled_center": true
     },
     "301": {
         "center": [
@@ -5188,6 +5224,1221 @@
     "400": {
         "center": [
             185,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "401": {
+        "center": [
+            191,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "402": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "403": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "404": {
+        "center": [
+            189,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "405": {
+        "center": [
+            188,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "406": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "407": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "408": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "409": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "410": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "411": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "412": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "413": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "414": {
+        "center": [
+            189,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "415": {
+        "center": [
+            191,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "416": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "417": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "418": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "419": {
+        "center": [
+            187,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "420": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "421": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "422": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "423": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "424": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "425": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "426": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "427": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "428": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "429": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "430": {
+        "center": [
+            189,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "431": {
+        "center": [
+            196,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "432": {
+        "center": [
+            193,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "433": {
+        "center": [
+            188,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "434": {
+        "center": [
+            189,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "435": {
+        "center": [
+            195,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "436": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "437": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "438": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "439": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "440": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "441": {
+        "center": [
+            190,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "442": {
+        "center": [
+            190,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "443": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "444": {
+        "center": [
+            193,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "445": {
+        "center": [
+            197,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "446": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "447": {
+        "center": [
+            187,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "448": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "449": {
+        "center": [
+            202,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "450": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            0
+        ],
+        "doubled_center": true
+    },
+    "451": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "452": {
+        "center": [
+            204,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "453": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "454": {
+        "center": [
+            194,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "455": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "456": {
+        "center": [
+            190,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "457": {
+        "center": [
+            189,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "458": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "459": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "460": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "461": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "462": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "463": {
+        "center": [
+            191,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "464": {
+        "center": [
+            189,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "465": {
+        "center": [
+            190,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "466": {
+        "center": [
+            190,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "467": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "468": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "469": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "470": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "471": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "472": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "473": {
+        "center": [
+            198,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "474": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "475": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "476": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "477": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "478": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "479": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "480": {
+        "center": [
+            187,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "481": {
+        "center": [
+            199,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "482": {
+        "center": [
+            180,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "483": {
+        "center": [
+            188,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "484": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "485": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "486": {
+        "center": [
+            198,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "487": {
+        "center": [
+            190,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "488": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "489": {
+        "center": [
+            189,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "490": {
+        "center": [
+            191,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "491": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "492": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "493": {
+        "center": [
+            192,
             87
         ],
         "widths": [
