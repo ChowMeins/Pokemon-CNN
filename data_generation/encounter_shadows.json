@@ -2577,5 +2577,2626 @@
             11
         ],
         "doubled_center": false
+    },
+    "201": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "202": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "203": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "204": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "205": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            25,
+            17
+        ],
+        "doubled_center": true
+    },
+    "206": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            35,
+            33,
+            29,
+            21
+        ],
+        "doubled_center": false
+    },
+    "207": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "208": {
+        "center": [
+            196,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "209": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            27,
+            25,
+            21,
+            13
+        ],
+        "doubled_center": false
+    },
+    "210": {
+        "center": [
+            190,
+            86
+        ],
+        "widths": [
+            27,
+            25,
+            21,
+            11
+        ],
+        "doubled_center": false
+    },
+    "211": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "212": {
+        "center": [
+            198,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "213": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "214": {
+        "center": [
+            186,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "215": {
+        "center": [
+            197,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "216": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "217": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "218": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "219": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "220": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "221": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "222": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "223": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "224": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "225": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "226": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "227": {
+        "center": [
+            190,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            25,
+            17
+        ],
+        "doubled_center": true
+    },
+    "228": {
+        "center": [
+            198,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "229": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "230": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "231": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "232": {
+        "center": [
+            201,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "233": {
+        "center": [
+            196,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "234": {
+        "center": [
+            197,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "235": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "236": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "237": {
+        "center": [
+            196,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "238": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "239": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "240": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            27,
+            25,
+            21,
+            13
+        ],
+        "doubled_center": false
+    },
+    "241": {
+        "center": [
+            191,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "242": {
+        "center": [
+            194,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "243": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            19
+        ],
+        "doubled_center": true
+    },
+    "244": {
+        "center": [
+            196,
+            87
+        ],
+        "widths": [
+            51,
+            49,
+            45,
+            35,
+            19
+        ],
+        "doubled_center": true
+    },
+    "245": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "246": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "247": {
+        "center": [
+            186,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "248": {
+        "center": [
+            199,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "249": {
+        "center": [
+            214,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "250": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "251": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "252": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "253": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "254": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "255": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            13
+        ],
+        "doubled_center": false
+    },
+    "256": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            13
+        ],
+        "doubled_center": false
+    },
+    "257": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "258": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "260": {
+        "center": [
+            189,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "261": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "262": {
+        "center": [
+            194,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "263": {
+        "center": [
+            197,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "264": {
+        "center": [
+            199,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "265": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "266": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "267": {
+        "center": [
+            180,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "268": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "269": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "270": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "271": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            33,
+            31,
+            25,
+            17
+        ],
+        "doubled_center": true
+    },
+    "272": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            33,
+            31,
+            25,
+            17
+        ],
+        "doubled_center": true
+    },
+    "273": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "274": {
+        "center": [
+            190,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "275": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            41,
+            33,
+            21
+        ],
+        "doubled_center": true
+    },
+    "276": {
+        "center": [
+            186,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "277": {
+        "center": [
+            182,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "278": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "279": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "280": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "281": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "282": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            25,
+            17
+        ],
+        "doubled_center": true
+    },
+    "283": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "284": {
+        "center": [
+            202,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "285": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "286": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "287": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "288": {
+        "center": [
+            196,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "289": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "290": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": false
+    },
+    "291": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "292": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "293": {
+        "center": [
+            191,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "294": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "295": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "296": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "297": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "298": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "299": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "300": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "259": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "301": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "302": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "303": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "304": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "305": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "306": {
+        "center": [
+            196,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "307": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "308": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "309": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "310": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "311": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "312": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "313": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "314": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "315": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "316": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "317": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "318": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "319": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "320": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "321": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "322": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "323": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "324": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "325": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "326": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "327": {
+        "center": [
+            191,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "328": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "329": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "330": {
+        "center": [
+            181,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "331": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "332": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "333": {
+        "center": [
+            200,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "334": {
+        "center": [
+            185,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "335": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "336": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "337": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "338": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "339": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "340": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "341": {
+        "center": [
+            194,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "342": {
+        "center": [
+            195,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "343": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "344": {
+        "center": [
+            198,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "345": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "346": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "347": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "348": {
+        "center": [
+            189,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "349": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "350": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "351": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "352": {
+        "center": [
+            195,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "353": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "354": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "355": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "356": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "357": {
+        "center": [
+            189,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "358": {
+        "center": [
+            187,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "359": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "360": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "361": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "362": {
+        "center": [
+            190,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "363": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "364": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "365": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "366": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "367": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "368": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "369": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "370": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "371": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "372": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "373": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "374": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "375": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "376": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "377": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "378": {
+        "center": [
+            193,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "379": {
+        "center": [
+            197,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "380": {
+        "center": [
+            197,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "381": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "382": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "383": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "384": {
+        "center": [
+            201,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "385": {
+        "center": [
+            194,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "386": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "387": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "388": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "389": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
+    },
+    "390": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "391": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "392": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "393": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "394": {
+        "center": [
+            192,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "395": {
+        "center": [
+            194,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "396": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "397": {
+        "center": [
+            192,
+            86
+        ],
+        "widths": [
+            25,
+            23,
+            19,
+            11
+        ],
+        "doubled_center": false
+    },
+    "398": {
+        "center": [
+            189,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "399": {
+        "center": [
+            193,
+            87
+        ],
+        "widths": [
+            35,
+            33,
+            27,
+            17
+        ],
+        "doubled_center": true
+    },
+    "400": {
+        "center": [
+            185,
+            87
+        ],
+        "widths": [
+            49,
+            47,
+            43,
+            35,
+            21
+        ],
+        "doubled_center": true
     }
 }
