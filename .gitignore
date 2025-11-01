@@ -3,6 +3,7 @@ __pycache__
 data_generation/battle_spots
 data_generation/fields
 generate_encounter.py
-PokemonGen4
+assets
+dataset
 venv
-test.py
+test.ipynb

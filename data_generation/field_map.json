@@ -1,0 +1,227 @@
+{
+    "field_day": {
+        "battle_spots": [
+            "grass_day",
+            "field_day",
+            "wet_path_day"
+        ],
+        "weight": 5
+        },
+    "field_afternoon": {
+        "battle_spots": [
+            "grass_afternoon",
+            "field_afternoon",
+            "wet_path_afternoon"
+        ],  
+        "weight": 5
+    },
+    "field_night": {
+        "battle_spots": [
+            "grass_night",
+            "field_night",
+            "wet_path_night"
+        ],  
+        "weight": 5
+    },
+    "surf_day": {
+        "battle_spots": [
+            "water_day"
+        ],  
+        "weight": 5
+    },
+    "surf_afternoon": {
+        "battle_spots": [
+            "water_afternoon"
+        ],  
+        "weight": 5
+    },
+    "surf_night": {
+        "battle_spots": [
+            "water_night"
+        ],  
+        "weight": 5
+    },
+    "city_day": {
+        "battle_spots": [
+            "indoor"
+        ],
+        "weight": 1
+    },
+    "city_afternoon": {
+        "battle_spots": [
+            "indoor"
+        ],
+        "weight": 1
+    },
+    "city_night": {
+        "battle_spots": [
+            "indoor"
+        ],
+        "weight": 1
+    },
+    "forest_day": {
+        "battle_spots": [
+        "grass_day",
+        "mud_day"
+        ],
+        "weight": 5
+    },
+    "forest_afternoon": {
+        "battle_spots": [
+            "grass_afternoon",
+            "mud_afternoon"
+        ],
+        "weight": 5
+    },
+    "forest_night": {
+        "battle_spots": [
+            "grass_night",
+            "mud_night"
+        ],
+        "weight": 5
+    },
+    "rocky_day": {
+        "battle_spots": [
+            "grass_day",
+            "rocky_day"
+        ],
+        "weight": 5
+    },
+    "rocky_afternoon": {
+        "battle_spots": [
+            "grass_afternoon",
+            "rocky_afternoon"
+        ],
+        "weight": 5
+    },
+    "rocky_night": {
+        "battle_spots": [
+            "rocky_night",
+            "grass_night"
+        ],
+        "weight": 5
+    },
+    "snow_day": {
+        "battle_spots": [
+            "grass_day",
+            "snow_day"
+        ],
+        "weight": 5
+    },
+    "snow_afternoon": {
+        "battle_spots": [
+            "grass_afternoon",
+            "snow_afternoon"
+        ],
+        "weight": 5
+    },
+    "snow_night": {
+        "battle_spots": [
+            "grass_night",
+            "snow_night"
+        ],
+        "weight": 5
+    },
+    "indoor_1": {
+        "battle_spots": [
+            "indoor"
+        ],
+        "weight": 1
+    },
+    "indoor_2": {
+        "battle_spots": [
+            "indoor"
+        ],
+        "weight": 1
+    },
+    "indoor_3": {
+        "battle_spots": [
+            "indoor"
+        ],
+        "weight": 5
+    },
+    "cave_1": {
+        "battle_spots": [
+            "cave"
+        ],
+        "weight": 5
+    },
+    "cave_2": {
+        "battle_spots": [
+            "cave"
+        ],
+        "weight": 5
+    },
+    "cave_3": {
+        "battle_spots": [
+            "cave"
+        ],
+        "weight": 5
+    },
+    "aaron": {
+        "battle_spots": [
+            "aaron"
+        ],
+        "weight": 1
+    },
+    "bertha": {
+        "battle_spots": [
+            "bertha"
+        ],
+        "weight": 1
+    },
+    "flint": {
+        "battle_spots": [
+            "flint"
+        ],
+        "weight": 1
+    },
+    "lucian": {
+        "battle_spots": [
+            "lucian"
+        ],
+        "weight": 1
+    },
+    "cynthia": {
+        "battle_spots": [
+            "cynthia"
+        ],
+        "weight": 1
+    },
+    "distortion_world": {
+        "battle_spots": [
+            "distortion_world"
+        ],
+        "weight": 1
+    },
+    "battle_tower": {
+        "battle_spots": [
+            "battle_tower"
+        ],
+        "weight": 1
+    },
+    "battle_factory": {
+        "battle_spots": [
+            "battle_factory"
+        ],
+        "weight": 1
+    },
+    "battle_arcade": {
+        "battle_spots": [
+            "battle_arcade"
+        ],
+        "weight": 1
+    },
+    "battle_castle": {
+        "battle_spots": [
+            "battle_castle"
+        ],
+        "weight": 1
+    },
+    "battle_hall": {
+        "battle_spots": [
+            "battle_hall"
+        ],
+        "weight": 1
+    }
+}
