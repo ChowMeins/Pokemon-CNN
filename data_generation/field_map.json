@@ -2,7 +2,6 @@
     "field_day": {
         "battle_spots": [
             "grass_day",
-            "field_day",
             "wet_path_day"
         ],
         "weight": 5
@@ -10,7 +9,6 @@
     "field_afternoon": {
         "battle_spots": [
             "grass_afternoon",
-            "field_afternoon",
             "wet_path_afternoon"
         ],  
         "weight": 5
@@ -18,25 +16,27 @@
     "field_night": {
         "battle_spots": [
             "grass_night",
-            "field_night",
             "wet_path_night"
         ],  
         "weight": 5
     },
     "surf_day": {
         "battle_spots": [
+            "grass_day",
             "water_day"
         ],  
         "weight": 5
     },
     "surf_afternoon": {
         "battle_spots": [
+            "grass_afternoon",
             "water_afternoon"
         ],  
         "weight": 5
     },
     "surf_night": {
         "battle_spots": [
+            "grass_night",
             "water_night"
         ],  
         "weight": 5
