@@ -5,5 +5,9 @@ data_generation/fields
 generate_encounter.py
 assets
 dataset
+runs
+pokemon_yolo_dataset
 venv
 test.ipynb
+*.pt
+*.yaml
